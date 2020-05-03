@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-We have deployed the army to Mozambique
+We have deployed the army to Mozambique to fight ISIS
 
 ### Copyright
 
