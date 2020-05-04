@@ -16,4 +16,5 @@ We have deployed the army to Mozambique to fight ISIS
 
 ### How to Contribute
 
+The revolution belongs to those who partake of it! I will be an MDC member of parliament!
 I love Chido to the depths of my heart more than anyone else
