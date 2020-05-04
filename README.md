@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Adding a line for Chido.
+This repository is for showing how Git and GitHub work. Adding a line for Chido Fungai Dzinotyiwei-Kwaramba
 
 ## Purpose
 
