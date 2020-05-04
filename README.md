@@ -12,7 +12,7 @@ We have deployed the army to Mozambique to fight ISIS
 
 ### Copyright
 
-2014 Tafadzwa.HC.
+2014 Tafadzwa.HC.All rights reserved.
 
 ### How to Contribute
 
